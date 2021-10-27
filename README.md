@@ -1,7 +1,7 @@
 <html>
 <meta charset="utf-8">
         <head>
-                <img src="" height="80%" width=100%"></>
+               
                 <h1 style="color:black;" align="left">Mateus Oliveira</h1>
                 <title>Meu Site HTML</title>
         </head>
@@ -12,7 +12,7 @@
           <p style="color:black;">O meu hobby e jogar bola , na epoca da pandemia eu nao joguei muito por conta do covid,pandemia . </p>
 <p style="color:black;">  entrei pra academia e descobrir a faculdade que eu quero cursar "educação fisica " quero fazer ou tambem como "TI" gosto de mexer em pc,etc ate que eu me dou bem pra isso,pretendo descobrir outros hobbyes para preencher o meu dia.</p>      
     
-               <br></br>
+              
 
            
         <footer>
@@ -25,5 +25,5 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff
+
 </html>
